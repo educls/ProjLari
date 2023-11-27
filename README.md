@@ -1,14 +1,26 @@
 # ProjLari
 
-## pip install mysql-connector-python
+## Mysql Connector
+```bash
+$ pip install mysql-connector-python
+```
 
 
-## pip install PyQt5
+## PyQt5
+```bash
+$ pip install PyQt5
+```
 
 
-## pip install PyQt5-Tools
+## PyQt5 Tools
+```bash
+$ pip install PyQt5-Tools
+```
 
 
-## pip install PyQt5Designer
+## PyQt5 Designer
+```bash
+$ pip install PyQt5Designer
+```
 
 
