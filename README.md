@@ -7,7 +7,7 @@ CREATE DATABASE IF NOT EXISTS projnaka;
 
 USE projnaka;
 
-CREATE TABLE Usuarios(
+CREATE TABLE usuarios(
   idUsuario INT NOT NULL AUTO_INCREMENT,
   nomeUsuario VARCHAR(45) NOT NULL,
   senha VARCHAR(45) NOT NULL,
@@ -27,6 +27,8 @@ CREATE TABLE agendamentos (
 );
 
 ```
+
+# Dependencias do Projeto
 
 ## Mysql Connector
 ```bash
