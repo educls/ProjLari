@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>677</width>
-    <height>386</height>
+    <width>777</width>
+    <height>435</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,10 +17,10 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>130</x>
-      <y>50</y>
-      <width>81</width>
-      <height>31</height>
+      <x>110</x>
+      <y>20</y>
+      <width>131</width>
+      <height>51</height>
      </rect>
     </property>
     <property name="font">
@@ -52,7 +52,7 @@
      <string/>
     </property>
     <property name="placeholderText">
-     <string>usuario</string>
+     <string>Usuário</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="leSenha">
@@ -73,7 +73,7 @@
      <string/>
     </property>
     <property name="placeholderText">
-     <string>senha</string>
+     <string>Senha</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pbLogar">
@@ -82,7 +82,7 @@
       <x>120</x>
       <y>220</y>
       <width>91</width>
-      <height>31</height>
+      <height>41</height>
      </rect>
     </property>
     <property name="font">
@@ -97,7 +97,7 @@
    <widget class="QTimeEdit" name="teHora">
     <property name="geometry">
      <rect>
-      <x>480</x>
+      <x>540</x>
       <y>100</y>
       <width>121</width>
       <height>31</height>
@@ -130,7 +130,7 @@
      <rect>
       <x>340</x>
       <y>100</y>
-      <width>131</width>
+      <width>181</width>
       <height>31</height>
      </rect>
     </property>
@@ -166,10 +166,10 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>380</x>
-      <y>50</y>
-      <width>191</width>
-      <height>31</height>
+      <x>360</x>
+      <y>20</y>
+      <width>301</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="font">
@@ -187,9 +187,9 @@
     <property name="geometry">
      <rect>
       <x>380</x>
-      <y>210</y>
-      <width>151</width>
-      <height>21</height>
+      <y>200</y>
+      <width>241</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
@@ -205,9 +205,9 @@
     <property name="geometry">
      <rect>
       <x>340</x>
-      <y>170</y>
-      <width>131</width>
-      <height>21</height>
+      <y>150</y>
+      <width>231</width>
+      <height>41</height>
      </rect>
     </property>
     <property name="font">
@@ -226,8 +226,8 @@
      <rect>
       <x>380</x>
       <y>240</y>
-      <width>151</width>
-      <height>21</height>
+      <width>241</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
@@ -244,8 +244,8 @@
      <rect>
       <x>430</x>
       <y>290</y>
-      <width>81</width>
-      <height>31</height>
+      <width>121</width>
+      <height>41</height>
      </rect>
     </property>
     <property name="font">
@@ -286,8 +286,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>677</width>
-     <height>21</height>
+     <width>777</width>
+     <height>26</height>
     </rect>
    </property>
   </widget>
